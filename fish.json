@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/oncall12/mtv/main/1_tvlive.txt",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     }
