@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐦TVBOX影视源 请勿相信视频中的任何广告",
+      "name": "请勿相信视频中的任何广告",
       "type": 3,
       "api": "https://gitee.com/bodyfish/mytv/raw/test/test/js/drpy2.min.js",
       "searchable": 0,
